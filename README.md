@@ -1,6 +1,6 @@
 # NTIRE 2026 Controllable Aperture Bokeh Rendering Challenge (@CVPR 2026)
 
-TEAM NCKU
+TEAM ACVLAB
 
 ## Installation
 
